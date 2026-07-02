@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modDesc descVersion="75">
+    <author>Malle1608</author>
+    <version>1.0.0</version>
+    <title>
+        <en>LS25 Terrain Generator Tool</en>
+        <de>LS25 Gelände Generator Werkzeug</de>
+    </title>
+    <description>
+        <en>Professional Terrain Heightmap Generator for LS25. Generate realistic landscapes with Perlin Noise.</en>
+        <de>Professioneller Gelände-Höhenkarten Generator für LS25. Erstelle realistische Landschaften mit Perlin Noise.</de>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="false" />
+    <l10n>
+        <text name="TERRAIN_GENERATOR" >
+            <en>Terrain Generator</en>
+            <de>Gelände Generator</de>
+        </text>
+        <text name="TERRAIN_WIDTH">
+            <en>Width</en>
+            <de>Breite</de>
+        </text>
+        <text name="TERRAIN_HEIGHT">
+            <en>Height</en>
+            <de>Höhe</de>
+        </text>
+        <text name="TERRAIN_MAX_HEIGHT">
+            <en>Max Height Difference</en>
+            <de>Max Höhenunterschied</de>
+        </text>
+        <text name="TERRAIN_ROUGHNESS">
+            <en>Roughness</en>
+            <de>Rauheit</de>
+        </text>
+        <text name="TERRAIN_CONTOUR_SCALE">
+            <en>Contour Scale</en>
+            <de>Kontur-Skala</de>
+        </text>
+        <text name="TERRAIN_FLATNESS">
+            <en>Flat Terrain Mode</en>
+            <de>Flaches Gelände Modus</de>
+        </text>
+        <text name="TERRAIN_GENERATE">
+            <en>Generate Terrain</en>
+            <de>Gelände Generieren</de>
+        </text>
+        <text name="TERRAIN_EXPORT">
+            <en>Export to RAW</en>
+            <de>Zu RAW Exportieren</de>
+        </text>
+        <text name="TERRAIN_SUCCESS">
+            <en>Terrain exported successfully!</en>
+            <de>Gelände erfolgreich exportiert!</de>
+        </text>
+        <text name="TERRAIN_ERROR">
+            <en>Error generating terrain: %s</en>
+            <de>Fehler beim Generieren des Geländes: %s</de>
+        </text>
+    </l10n>
+</modDesc>
